@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=nigamanandajoshi&color=blue&style=flat)
 ### Hi, I'm Nigamananda Joshi
 
 Systems programmer, distributed systems enthusiast, and Web3 builder at **IIIT Bhubaneswar** (B.Tech CSE, 2023–27).
