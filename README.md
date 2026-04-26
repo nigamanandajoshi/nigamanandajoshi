@@ -8,7 +8,7 @@ Systems programmer, distributed systems enthusiast, and Web3 builder at **IIIT B
 
 - **[ParamOS](https://github.com/nigamanandajoshi/ParamOS-FromScratch)** — A from-scratch 32-bit x86 OS: bootloader, GDT, IDT, memory management, task scheduler, and an interactive kernel shell. Built to understand OS abstractions from first principles.
 - **[MedChain-FL](https://github.com/nigamanandajoshi/MedChain-FL)** — Privacy-preserving federated learning over distributed medical nodes. Fault-tolerant aggregation without ever sharing raw data.
-- **[Solana SPL Launchpad](https://github.com/nigamanandajoshi/solana-spl-launchpad)** — Decentralized token deployment platform using the Anchor framework, IPFS metadata storage, and wallet-based auth on Solana mainnet.
+- **[Solana SPL Launchpad](https://github.com/nigamanandajoshi/SolanaTokenLaunchPad)** — Decentralized token deployment platform using the Anchor framework, IPFS metadata storage, and wallet-based auth on Solana mainnet.
 - **High-Performance Micromagnetic Solver** — Leading the Rust team to build the computational core for a modern, finite-difference simulation solver. Implementing a hybrid architecture featuring a zero-cost Rust backend for time integration of the LLG equation, wrapped in a high-level Python API.
 
 ---
@@ -46,5 +46,6 @@ Cloud       Google Cloud Platform · Docker
 
 <p align="left">
   <a href="https://linkedin.com/in/nigamananda">LinkedIn</a> ·
+  <a href="https://x.com/Nigam_Xo6">X / Twitter</a> ·
   <a href="mailto:nigamanandajoshi@gmail.com">Email</a>
 </p>
