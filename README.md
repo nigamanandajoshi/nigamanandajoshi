@@ -46,7 +46,7 @@ Cloud       Google Cloud Platform · Docker
 ---
 
 <p align="left">
-  <a href="https://linkedin.com/in/nigamananda">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/nigamanandajoshi">LinkedIn</a> ·
   <a href="https://x.com/Nigam_Xo6">X / Twitter</a> ·
   <a href="mailto:nigamanandajoshi@gmail.com">Email</a>
 </p>
