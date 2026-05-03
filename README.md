@@ -39,7 +39,6 @@ Cloud       Google Cloud Platform · Docker
 - **Leading a Rust development team** to build the high-performance computational core for a modern micromagnetic simulation solver.
 - Participating in the **Solana Superdev Fellowship**, building decentralized infrastructure.
 - Open to **systems engineering, backend, blockchain, and ML internships**
-- Preparing a pilot "Pala Chhatu" (paddy straw mushroom) farming run and exploring carbon credit trading on the family farm!
 
 * *"Always open to new connections\! Let's chat before my social battery throws a `kernel panic`."*
   * *"I'm always looking to collaborate—no need to `fork` the conversation, just drop me an email\!"*
